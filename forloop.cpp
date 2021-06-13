@@ -7,4 +7,7 @@ int main(){
         cout<<"Hello World"<<endl;
         return 0;
     }
+
+    cout<<"Done with for loops"<<endl;
+    cout<<"sorry for inconvenience"<<endl;
 }
